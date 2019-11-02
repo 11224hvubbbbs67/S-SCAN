@@ -1,1 +1,1 @@
-# DS-IQ
+# Simple SCAN
